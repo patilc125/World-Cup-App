@@ -29,7 +29,7 @@
         tools:layout_editor_absoluteY="25dp" />
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/winss"
         android:layout_width="96dp"
         android:layout_height="23dp"
         android:layout_marginStart="12dp"
